@@ -1,3 +1,15 @@
+
+    
+ <img  src="shopping-cart-image.png"  />
+<h2>You will need; </h2>
+<li>React hooks : useState,useContext,useReducer</li>
+<li>Icon : React-icons</li>
+<li>Fonts : Google Fonts</li>
+
+---
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
