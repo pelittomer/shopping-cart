@@ -1,6 +1,7 @@
+<h1>Preview </h1>
 
-    
- <img  src="shopping-cart-image.png"  />
+![cart](https://user-images.githubusercontent.com/127727007/231054653-be42baa6-7177-438a-bf25-774e5c05d173.gif)
+
 <h2>You will need; </h2>
 <li>React hooks : useState,useContext,useReducer</li>
 <li>Icon : React-icons</li>
